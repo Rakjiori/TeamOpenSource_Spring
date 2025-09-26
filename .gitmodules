@@ -1,9 +1,12 @@
 [submodule "Seok_Silsup"]
 	path = Seok_Silsup
 	url = https://github.com/MercuriusDream/Seok_Silsup
+	branch = main
 [submodule "bong_silsup"]
 	path = bong_silsup
 	url = https://github.com/grapebongbongs/bong_silsup.git
+	branch = silsup
 [submodule "Rak_silsup"]
 	path = Rak_silsup
 	url = https://github.com/Rakjiori/Rak_silsup.git
+	branch = main
