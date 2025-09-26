@@ -4,3 +4,6 @@
 [submodule "bong_silsup"]
 	path = bong_silsup
 	url = https://github.com/grapebongbongs/bong_silsup.git
+[submodule "Rak_silsup"]
+	path = Rak_silsup
+	url = https://github.com/Rakjiori/Rak_silsup.git
