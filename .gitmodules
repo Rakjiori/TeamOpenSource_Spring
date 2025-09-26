@@ -3,7 +3,7 @@
 	url = https://github.com/MercuriusDream/Seok_Silsup
 [submodule "bong_silsup"]
 	path = bong_silsup
-	url = https://github.com/grapebongbongs/bong_silsup.git
+	url = https://github.com/grapebongbongs/bong_silsup/tree/silsup
 [submodule "Rak_silsup"]
 	path = Rak_silsup
 	url = https://github.com/Rakjiori/Rak_silsup.git
