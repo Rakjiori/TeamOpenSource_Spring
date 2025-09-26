@@ -1,0 +1,6 @@
+[submodule "Seok_Silsup"]
+	path = Seok_Silsup
+	url = https://github.com/MercuriusDream/Seok_Silsup
+[submodule "bong_silsup"]
+	path = bong_silsup
+	url = https://github.com/grapebongbongs/bong_silsup.git
